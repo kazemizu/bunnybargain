@@ -1,0 +1,22 @@
+{
+  "name": "bunnybargain",
+  "version": "1.0.0",
+  "description": "All you need to kno about BunnyBargain ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazemizu/bunnybargain.git"
+  },
+  "keywords": [
+    "BunnyBargain, bunnybargain, toramonline"
+  ],
+  "author": "Kazemizu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kazemizu/bunnybargain/issues"
+  },
+  "homepage": "https://github.com/kazemizu/bunnybargain#readme"
+}
