@@ -1,0 +1,6 @@
+@import '../../App.css';
+
+.navbar-background {
+    background-color: var(--secondary-color-purple-hex);
+    box-shadow: 0px 3px rgba(var(--primary-color-purple), 0.8);
+}
