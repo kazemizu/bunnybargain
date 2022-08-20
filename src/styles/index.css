@@ -23,3 +23,9 @@ code {
   display: flex;
   justify-content: center;
 }
+
+@layer components {
+  .navbar-background {
+    @apply bg-[#e7c4dd] shadow-[#d7acd0] shadow-md
+  }
+}
